@@ -1,1 +1,3 @@
 Rules to solve a problem
+
+Learn Patterns
